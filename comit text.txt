@@ -1,2 +1,2 @@
-1 commit
+1 commit\n
 2 commit
